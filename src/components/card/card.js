@@ -1,0 +1,7 @@
+class CardComponent extends HTMLElement {
+
+    
+
+
+}
+
