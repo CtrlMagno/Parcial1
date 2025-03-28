@@ -5,7 +5,7 @@ body{
 .card{
     width: 350px;
     height: 550px;
-    border: 1px solid black;
+    border: 1px solid gray;
     border-radius: 10px;
     
 }
@@ -32,7 +32,7 @@ body{
 .div2{
     display: flex;
     justify-content: space-between;
-    margin-left: 20px;
+    margin-left: 10px;
     margin-right: 40px;
 }
 
@@ -50,4 +50,34 @@ body{
     font-weight:bolder;
 }
 
+.price{
+    color: black;
+    opacity: 60%;
+}
+
+.divLine{
+    text-align: center;
+    font-weight: bolder;
+}
+
+.line{
+    margin: 0px;
+}
+
+.state{
+    margin-top: 20px;
+    margin-left: 10px;
+    color: black;
+    opacity: 60%;
+    
+}
+
+.div3{
+    display: flex;
+    justify-content: space-between;
+}
+
+.button{
+    margin-right: 20px;
+}
 
